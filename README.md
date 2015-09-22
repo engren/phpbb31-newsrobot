@@ -12,9 +12,9 @@ You need to replace some actual PHP code within phpBB, one file. includes/functi
 
 Replace the following (only one occurance in the file):
 
-'''php
+```php
 $current_time = time();
-'''
+```
 
 with
 
